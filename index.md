@@ -21,3 +21,7 @@ git config --global user.email "邮箱"
 ```
 
 
+- 添加暂存区
+```
+git add .
+```
