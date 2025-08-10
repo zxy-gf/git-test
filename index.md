@@ -1,7 +1,6 @@
 ### git常用指令
 
 - 查看用户信息
-
 ```
 git config user.name // 获取用户名称
 git config user.email // 获取用户邮箱
